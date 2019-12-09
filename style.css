@@ -128,8 +128,8 @@ footer a {
 
     h1 {
         font-size: 15px;
-        margin: 100px 40px;
-        margin-bottom: 30px;
+        margin: 15px 40px;
+        margin-bottom: 70px;
     }
 
     #virtue-card {
@@ -169,5 +169,10 @@ footer a {
     #nav #virtue-list li:hover {
         background-color: #000 !important;
         cursor: pointer !important;
+    }
+
+    #close-btn {
+        font-size: 12px;
+        padding: 5px;
     }
 }
