@@ -52,17 +52,17 @@ document.getElementById("close-btn").addEventListener("click", function() {
 
     if(navEl.style.display === "none" || navEl.style.display === "") {
         navEl.style.display = "block";
-        window.setTimeout(function(){
-            navEl.style.opacity = 1;
-            navEl.style.transform = 'scaleZ(1)';
-        },200);
+        // window.setTimeout(function(){
+        //     navEl.style.opacity = 1;
+        //     navEl.style.transform = 'scaleZ(1)';
+        // },100);
     } else {
-        navEl.style.opacity = 0;
-        navEl.style.transform = 'scaleZ(9)';
+        // navEl.style.opacity = 0;
+        // navEl.style.transform = 'scaleZ(9)';
 
-        window.setTimeout(function(){
+        // window.setTimeout(function(){
             navEl.style.display = 'none';
-        },1000); // timed to match animation-duration
+        // },400); // timed to match animation-duration
     }
 });
 
