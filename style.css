@@ -1,0 +1,169 @@
+@import url('https://fonts.googleapis.com/css?family=Courgette|Tangerine|Bad+Script&display=swap');
+
+html {
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    background-image: url('shrine1.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    /* background-position-x: center; */
+    background-color: rgba(0,0,0, .8);
+    background-blend-mode: multiply;
+    height: 100vh;
+}
+
+#nav {
+    height: 600px;
+    width: 20%;
+    background-color: rgba(0, 0, 0, .4);
+    position: absolute;
+    top: 70px;
+    display: none;
+    /* visibility: hidden; */
+    transition: all 3s;
+}
+
+#close-btn {
+    color: #ffffff;
+    font-family: arial;
+    font-size: 12px;
+    margin: 5px;
+    display: inline-block;
+    border-radius: 5px;
+    background-color: #000;
+    padding: 10px;
+    border-bottom: 1px solid #ccc;
+    position: absolute;
+    top: 5px;
+}
+
+#close-btn:hover {
+    cursor: pointer;
+    top: 11px;
+}
+
+#nav #virtue-list {
+    margin: 0;
+}
+
+#nav #virtue-list li {
+    display: block;
+    font-size: 20px;
+    padding: 8px;
+    color: #fff;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    cursor: pointer;
+}
+
+#nav #virtue-list li:hover {
+    background-color: #000;
+}
+
+#virtue-card {
+    color: #fff;
+    width: 60%;
+    margin: 7% auto;
+    /* background-color: rgb(255,255,255); */
+    /* border: 1px solid #999; */
+    text-align: center;
+    /* box-shadow: 0px 0px 20px #efefef; */
+}
+
+#card-head {
+    padding:10px;
+    /* background-color: #efefef; */
+    font-size: 20px;
+    font-weight: bold;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+#card-body {
+    padding: 20px;
+    font-size: 25px;
+    line-height: 40px;
+    font-family: cursive;
+    font-weight: lighter;
+}
+
+#card-footer {
+    font-size: 14px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    padding: 10px;
+    /* border-top: 1px solid #efefef; */
+}
+
+h1 {
+    text-align: center;
+    margin: 80px;
+    color: #ffffff;
+    font-size: 60px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;;
+}
+
+footer {
+    width: 50%;
+    color: #fff;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    text-align: right;
+    font-size: 12px;
+    margin: 20px;
+}
+
+footer a {
+    color: rgb(120, 175, 247);
+    text-decoration: none;
+}
+
+
+@media screen and (max-width: 400px) {
+    #content {
+        box-sizing: content-box;
+    }
+
+    h1 {
+        font-size: 35px;
+        margin: 100px 40px;
+        margin-bottom: 30px;
+    }
+
+    #virtue-card {
+        width: 100%;
+    }
+
+    #card-head {
+        font-size: 14px;
+    }
+
+    #card-body {
+        font-size: 12px;
+        line-height: 20px;
+        margin: 5px 0px;
+        font-family: Arial, Helvetica, sans-serif;
+    }
+
+    footer {
+        font-size: 8px;
+        width: 90%;
+    }
+
+    #nav {
+        width: 45%;
+        background-color: rgba(0, 0, 0, .95);
+        height: 500px;
+    }
+
+    #nav #virtue-list li {
+        font-size: 14px !important;
+    }
+
+    #nav #virtue-list li:hover {
+        background-color: #000 !important;
+        cursor: pointer !important;
+    }
+}
