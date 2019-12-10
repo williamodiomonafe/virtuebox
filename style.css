@@ -122,6 +122,10 @@ footer a {
 
 
 @media screen and (max-width: 400px) {
+    body {
+        width: 100vw;
+    }
+
     #content {
         box-sizing: content-box;
     }
