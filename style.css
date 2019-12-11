@@ -1,8 +1,5 @@
 @import url('https://fonts.googleapis.com/css?family=Courgette|Tangerine|Bad+Script&display=swap');
 
-html {
-}
-
 body {
     margin: 0;
     padding: 0;
@@ -13,6 +10,8 @@ body {
     background-color: rgba(0,0,0, .8);
     background-blend-mode: multiply;
     height: 100vh;
+    color: #fff;
+    text-align:center;
 }
 
 #nav {
@@ -38,6 +37,7 @@ body {
     border-bottom: 1px solid #ccc;
     position: absolute;
     top: 5px;
+    left: 1px;
 }
 
 #close-btn:hover {
@@ -95,7 +95,7 @@ body {
     /* border-top: 1px solid #efefef; */
 }
 
-h1 {
+#app-title {
     text-align: center;
     margin: 80px;
     color: #ffffff;
@@ -130,7 +130,7 @@ footer a {
         box-sizing: content-box;
     }
 
-    h1 {
+    #app-title {
         font-size: 15px;
         margin: 15px 40px;
         margin-bottom: 50px;
