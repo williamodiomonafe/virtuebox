@@ -4,7 +4,7 @@ var FILES_TO_CACHE = [
     'index.html',
     'style.css',
     'script.js',
-    'shrine1.jpg',
+    'shrine1.webp',
 ];
 
 self.addEventListener('install', function(event) {
