@@ -52,6 +52,10 @@ document.getElementById("close-btn").addEventListener("click", function() {
 
     if(navEl.style.display === "none" || navEl.style.display === "") {
         navEl.style.display = "block";
+        this.innerHTML = "X";
+        this.style.width = "2.5em";
+        // this.style.paddingLeft = "1.8em";
+        // this.style.paddingRight = "1.8em";
         // window.setTimeout(function(){
         //     navEl.style.opacity = 1;
         //     navEl.style.transform = 'scaleZ(1)';
@@ -62,6 +66,10 @@ document.getElementById("close-btn").addEventListener("click", function() {
 
         // window.setTimeout(function(){
             navEl.style.display = 'none';
+            this.innerHTML = "Menu";
+            this.style.width = "2.5em";
+            // this.style.paddingLeft = "1.8em";
+            // this.style.paddingRight = "1.8em";
         // },400); // timed to match animation-duration
     }
 });
