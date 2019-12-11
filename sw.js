@@ -1,7 +1,7 @@
 var CACHE_NAME = '/virtuebox-cache-v1';
 var FILES_TO_CACHE = [
     'offline.html',
-    // 'index.html',
+    'index.html',
     'style.css',
     'script.js',
     'shrine1.jpg',
