@@ -15,6 +15,7 @@ You can contribute to this app development by sending in virtues and quotes or s
 ## Todo
 1. Include side menu to select virtue and display random quotes based on selected virtue.
 2. Add social media share icons below quotes. E.g Twitter, Whatsapp, Facebook
+3. Add examples of how to be practive the virtue
 
 
 ## Up Next After Todo :-)
