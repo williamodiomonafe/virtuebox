@@ -322,7 +322,7 @@ let virtues = [
         quote: "Strive ye then with all your heart to treat compassionately all humankind--except for those who have some selfish, private motive, or some disease of the soul. Kindness cannot be shown the tyrant, the deceiver, or the thief, because, far from awakening them to the error of their ways, it maketh them to continue in their perversity as before. No matter how much kindliness ye may expend upon the liar, he will but lie the more, for he believeth you to be deceived, while ye understand him but too well, and only remain silent out of your extreme compassion.",
         author: "‘Abdu’l-Bahá",
         source: "Selections from the Writings of ‘Abdu’l-Bahá, p. 158",
-    }
+    },
      
     {
         category : "Love",
