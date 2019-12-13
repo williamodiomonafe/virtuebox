@@ -23,24 +23,23 @@
     <div id="container">
         <span id="close-btn">Menu</span>
 
+        <span id="refresh">Refresh</span>
+
         <nav id="nav">
-            <ul id="virtue-list">
-                <li>Love</li>
-                <li>Kindness</li>
-            </ul>
+            <ul id="virtue-list"></ul>
         </nav>
         <div id="content">
             <h1 id="app-title">VirtueBox</h1>
 
             <div id="virtue-card">
-                <div id="card-head">Your Virtue for the Day: <span id="quote-title"></span>!</div>
+                <div id="card-head">Virtue for the Day: <span id="quote-title"></span>!</div>
                 <div id="card-body"><span id="quote"></quote></div>
                 <div id="card-footer"></div>
             </div>
         </div>
 
         <footer>
-            This app is still in development. Thanks for trying it out. You can contribute to it's development by sending your input or suggestions to <a href="mailto:williamodiomonafe@gmail.com">williamodiomonafe@gmail.com</a> OR Twitter: <a href="https://twitter.com/wocodes">@wocodes</a>
+            Contributors: William, Husayn Forchu. This app is still in active development, thanks for trying it out. You can contribute to it's development by sending your input or suggestions to <a href="mailto:williamodiomonafe@gmail.com">williamodiomonafe@gmail.com</a> OR Twitter: <a href="https://twitter.com/wocodes">@wocodes</a>
         </footer>
     </div>
     
@@ -52,7 +51,7 @@
         window.addEventListener('load', () => {
             navigator.serviceWorker.register('sw.js')
                 .then((reg) => {
-                    console.log("Service worker registered", reg);
+                    // console.log("Service worker registered", reg);
                 })
         });
     }

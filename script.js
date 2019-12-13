@@ -1,3 +1,6 @@
+
+let virtuesList = ["Love", "Kindness"];
+
 let virtues = [
     {
         category : "Love",
@@ -31,18 +34,34 @@ let virtues = [
     }
 ];
 
+
 let card = document.getElementById("virtue-card");
 let cardHeader = document.getElementById("card-head");
 let cardFooter = document.getElementById("card-footer");
 let quote = document.getElementById("quote");
 let quoteTitle = document.getElementById("quote-title");
 
-let virtueForTheDay = Math.round(Math.random() * (virtues.length - 1));
+function virtueForTheDay() {
+    return Math.round(Math.random() * (virtues.length - 1));
+};
 
-quoteTitle.innerHTML = virtues[virtueForTheDay].category;
-quote.innerHTML = virtues[virtueForTheDay].quote;
+
+// let virtue = "Home";
+
+
+// if(document.cookie == "Home" || document.cookie == "") {
+    virtue = virtueForTheDay();
+// } else {
+//     do {
+//         virtue = document.cookie;
+//     } while(document.cookie.toLowerCase !== virtues[virtueForTheDay()].category);
+// }
+
+
+quoteTitle.innerHTML = virtues[virtue].category;
+quote.innerHTML = virtues[virtue].quote;
 quoteTitle.style.fontWeight = "bold";
-cardFooter.innerHTML = virtues[virtueForTheDay].author + " - " + virtues[virtueForTheDay].source;
+cardFooter.innerHTML = virtues[virtue].author + " - " + virtues[virtue].source;
 
 
 
@@ -54,24 +73,29 @@ document.getElementById("close-btn").addEventListener("click", function() {
         navEl.style.display = "block";
         this.innerHTML = "X";
         this.style.width = "2.5em";
-        // this.style.paddingLeft = "1.8em";
-        // this.style.paddingRight = "1.8em";
-        // window.setTimeout(function(){
-        //     navEl.style.opacity = 1;
-        //     navEl.style.transform = 'scaleZ(1)';
-        // },100);
     } else {
-        // navEl.style.opacity = 0;
-        // navEl.style.transform = 'scaleZ(9)';
-
-        // window.setTimeout(function(){
             navEl.style.display = 'none';
             this.innerHTML = "Menu";
             this.style.width = "2.5em";
-            // this.style.paddingLeft = "1.8em";
-            // this.style.paddingRight = "1.8em";
-        // },400); // timed to match animation-duration
     }
 });
 
+
+// for(i=0; i < virtuesList.length; i++) {
+//     document.getElementById("virtue-list").innerHTML += "<li>" + virtuesList[i] + "</li>";
+// }
+
+// let list = document.getElementById("virtue-list").children;
+// for(i=0; i < list.length; i++) {
+//     list[i].addEventListener('click', function() {
+//         document.cookie = this.innerHTML;
+
+//         console.log(document.cookie);
+//     });
+// }
+
+
+document.getElementById("refresh").addEventListener('click', function() {
+   location.reload(); 
+});
 
