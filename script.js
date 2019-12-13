@@ -87,9 +87,10 @@ let virtues = [
 
     {
         category : "Confidence",
-        meaning: "A feeling or belief that you can do something well or succeed at something", quote: "...",
-        author: "...",
-        source: "...",
+        meaning: "A feeling or belief that you can do something well or succeed at something", 
+        quote: "You certainly have no right to feel negative; you have embraced this glorious Faith and arisen with devotion to serve it,... you should be a veritable lion of confidence, and he will pray that you may become so.",
+        author: "Shoghi Effendi",
+        source: " Lights of Guidance, p. 113",
     },
 
 
@@ -102,11 +103,19 @@ let virtues = [
 
     {
         category : "Contentment",
-        meaning: "The state of being happy and satisfied", quote: "...",
-        author: "...",
-        source: "...",
+        meaning: "The state of being happy and satisfied", 
+        quote: "Most necessary to thy well-being is contentment under all circumstances for through it will the soul be saved from sloth and ill-being.",
+        author: "Bahá’u’lláh",
+        source: "ablet of Medicine",
     },
-
+    {
+        category : "Contentment",
+        meaning: "The state of being happy and satisfied", 
+        quote: "The source of all glory is acceptance of whatsoever the Lord hath bestowed, and contentment with that which God hath ordained.",
+        author: "Bahá’u’lláh",
+        source: "Tablet of Medicine, p.155",
+    },
+    
     {
         category : "Cooperation",
         meaning: "A situation in which people work together to do something", quote: "...",
@@ -116,11 +125,70 @@ let virtues = [
     
     {
         category : "Courage",
-        meaning: "Mental or moral strength to venture, persevere, and withstand danger, fear, or difficulty", quote: "...",
-        author: "...",
-        source: "...",
+        meaning: "Mental or moral strength to venture, persevere, and withstand danger, fear, or difficulty", 
+        quote: "The source of courage and power is the promotion of the Word of God, and steadfastness in His Love.",
+        author: "Bahá’u’lláh",
+        source: "Tablets of Bahá’u’lláh, p. 155",
+    },
+
+    {
+        category : "Courage",
+        meaning: "Mental or moral strength to venture, persevere, and withstand danger, fear, or difficulty", 
+        quote: "Whatever decreaseth fear increaseth courage.",
+        author: "Bahá’u’lláh",
+        source: "Epistle to the Son of the Wolf, p. 32",
     },
     
+    {
+        category : "Courage",
+        meaning: "Mental or moral strength to venture, persevere, and withstand danger, fear, or difficulty", 
+        quote: "It was the Love of God that... gave to Moses courage and patience.",
+        author: "‘Abdu’l-Bahá",
+        source: "Paris Talks, p. 82",
+    },
+    
+    {
+        category : "Courage",
+        meaning: "Mental or moral strength to venture, persevere, and withstand danger, fear, or difficulty", 
+        quote: "May you be a source of courage to the affrighted one.",
+        author: "‘Abdu’l-Bahá",
+        source: "The Promulgation of Universal Peace, p. 425",
+    },
+    
+    {
+        category : "Courage",
+        meaning: "Mental or moral strength to venture, persevere, and withstand danger, fear, or difficulty", 
+        quote: "Only have faith, patience and courage -- this is but the beginning, but surely you will succeed, for God is with you!",
+        author: "‘Abdu’l-Bahá",
+        source: "Paris Talks, p. 101",
+    },
+    
+    {
+        category : "Courage",
+        meaning: "Mental or moral strength to venture, persevere, and withstand danger, fear, or difficulty", 
+        quote: "Strive as much as ye can to turn wholly toward the Kingdom, that ye may acquire innate courage and ideal power.",
+        author: "‘Abdu’l-Bahá",
+        source: "Selections from the Writings of ‘Abdu’l-Bahá, p. 206",
+    },
+    
+    {
+        category : "Courage",
+        meaning: "Mental or moral strength to venture, persevere, and withstand danger, fear, or difficulty", 
+        quote: "Strive as much as ye can to turn wholly toward the Kingdom, that ye may acquire innate courage and ideal power.",
+        author: "‘Abdu’l-Bahá",
+        source: "Selections from the Writings of ‘Abdu’l-Bahá, p. 206",
+    },
+    
+    {
+        category : "Courage",
+        meaning: "Mental or moral strength to venture, persevere, and withstand danger, fear, or difficulty", 
+        quote: "Strive as much as ye can to turn wholly toward the Kingdom, that ye may acquire innate courage and ideal power.",
+        author: "‘Abdu’l-Bahá",
+        source: "Selections from the Writings of ‘Abdu’l-Bahá, p. 206",
+    },
+    
+
+
     {
         category : "Creativity",
         meaning: "The ability to make new things or think of new ideas", quote: "...",
@@ -130,18 +198,33 @@ let virtues = [
     
     {
         category : "Detachment",
+        meaning: "A quality that makes you continue trying to do or achieve something that is difficult", 
+        quote: "And were they to pass through a valley of pure gold and mines of precious silver, they should regard them as wholly unworthy of their attention.",
+        author: "Bahá’u’lláh",
+        source: "Gems of Divine Mysteries, p. 59-60",
+    },
+
+    {
+        category : "Detachment",
+        meaning: "Cleanse from your hearts the love of worldly things, from your tongues every remembrance except His remembrance, from your entire being whatsoever may deter you from beholding His face, or may tempt you to follow the promptings of your evil and corrupt inclinations. Let God be your fear, O people, and be ye of them that tread the path of righteousness.",
+        author: "Bahá’u’lláh",
+        source: "Gleanings from the Writings of Bahá’u’lláh, p. 275",
+    },
+
+    {
+        category : "Detachment",
+        meaning: "Detachment is as the sun; in whatsoever heart it doth shine it quencheth the fire of covetousness and self..",
+        author: "Bahá’u’lláh",
+        source: "Bahá’í World, V 1, p. 42",
+    },
+
+    {
+        category : "Determination",
         meaning: "Lack of emotion or of personal interest", quote: "...",
         author: "...",
         source: "...",
     },
-    
-    {
-        category : "Determination",
-        meaning: "A quality that makes you continue trying to do or achieve something that is difficult", quote: "...",
-        author: "...",
-        source: "...",
-    },
-    
+
     {
         category : "Dignity",
         meaning: "A way of appearing or behaving that suggests seriousness and self-control", quote: "...",
