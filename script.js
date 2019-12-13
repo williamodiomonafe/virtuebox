@@ -755,3 +755,23 @@ document.getElementById("refresh").addEventListener('click', function() {
    location.reload(); 
 });
 
+
+document.getElementById("footer-top").addEventListener('click', function() {
+    let showInterval = setInterval(function() {
+        document.getElementById("footer").style.transition = "1s all";
+        document.querySelector("footer").className = "expand";
+
+        clearInterval(showInterval);
+    }, 50);
+    this.innerHTML = "Credits & Contributors";
+});
+
+document.getElementById("footer-bottom").addEventListener('click', function() {
+    // document.getElementById("footer").className = "collapse";
+    let hideInterval = setInterval(function() {
+        document.getElementById("footer").style.transition = "1s all";
+        document.getElementById("footer").className = "collapse";
+        document.getElementById("footer-top").innerHTML = "See Credits & Contributors";
+        clearInterval(hideInterval);
+    }, 50);
+});
