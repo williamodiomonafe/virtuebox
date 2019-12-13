@@ -227,19 +227,35 @@ let virtues = [
 
     {
         category : "Dignity",
-        meaning: "A way of appearing or behaving that suggests seriousness and self-control", quote: "...",
-        author: "...",
-        source: "...",
+        meaning: "A way of appearing or behaving that suggests seriousness and self-control", 
+        quote: "Dignity before God depends, not on sex, but on purity and luminosity of heart.",
+        author: "‘Abdu’l-Bahá",
+        source: "Paris Talks, p. 162",
     },
     
     {
         category : "Encouragement",
-        meaning: "Something that makes someone more determined, hopeful, or confident", quote: "...",
-        author: "...",
-        source: "...",
+        meaning: "Something that makes someone more determined, hopeful, or confident", 
+        quote: "The friends should be helped to overcome their problems, deepen in the Faith, and increase their unity and their love for each other. In this way you will find that your work goes ahead speedily...",
+        author: "Shoghi Effendi",
+        source: "Unlocking the Power of Action",
+    },
+
+    {
+        category : "Encouragement",
+        meaning: "Something that makes someone more determined, hopeful, or confident", 
+        quote: "The members of the House of Spirituality must give unlimited encouragement to women.",
+        author: "‘Abdu’l-Bahá",
+        source: "Tablets of ‘Abdu’l-Bahá v2, p. 336",
+    },
+    {
+        category : "Encouragement",
+        meaning: "Something that makes someone more determined, hopeful, or confident", 
+        quote: "The friends everywhere need encouragement.",
+        author: "Universal House of Justice",
+        source: "1998 Apr, Training Institutes",
     },
     
-
     {
         category : "Enthusiasm",
         meaning: "Strong excitement about something; a strong feeling of active interest in something that you like or enjoy", quote: "...",
