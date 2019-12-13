@@ -206,6 +206,13 @@ let virtues = [
         source: "...",
     },
     
+    {
+        category : "Fortitude",
+        meaning: "the courage to stand up for what is right, even in the face of pressure", quote: "...",
+        author: "...",
+        source: "...",
+    },
+    
 
     {
         category : "Friendliness",
@@ -378,6 +385,13 @@ let virtues = [
     },
     
     {
+        category : "Obedience",
+        meaning: "Assenting to rightful authority without hesitation or resistance", quote: "...",
+        author: "...",
+        source: "...",
+    },
+    
+    {
         category : "Optimistic",
         meaning: "Having or showing hope for the future; expecting good things to happen", quote: "...",
         author: "...",
@@ -419,6 +433,13 @@ let virtues = [
         source: "...",
     },
 
+    {
+        category : "Prayerfulness",
+        meaning: "Being still, listening, and being willing to talk to God as a friend", quote: "...",
+        author: "...",
+        source: "...",
+    },
+    
     {
         category : "Preparedness",
         meaning: "The quality or state of being prepared", quote: "...",
