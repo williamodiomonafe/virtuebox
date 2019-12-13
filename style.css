@@ -131,6 +131,16 @@ footer {
     text-align: center;
 }
 
+#blue {
+    color: rgb(134, 193, 248);
+    -webkit-text-stroke: 1px rgb(31, 77, 121);
+}
+
+#red {
+    color: rgb(250, 146, 146);
+    -webkit-text-stroke: 1px #000;
+}
+
 footer a {
     color: rgb(120, 175, 247);
     text-decoration: none;
