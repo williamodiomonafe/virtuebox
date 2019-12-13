@@ -174,17 +174,17 @@ let virtues = [
     {
         category : "Courage",
         meaning: "Mental or moral strength to venture, persevere, and withstand danger, fear, or difficulty", 
-        quote: "Strive as much as ye can to turn wholly toward the Kingdom, that ye may acquire innate courage and ideal power.",
+        quote: "Take courage!",
         author: "‘Abdu’l-Bahá",
-        source: "Selections from the Writings of ‘Abdu’l-Bahá, p. 206",
+        source: "Paris Talks, p. 30",
     },
     
     {
         category : "Courage",
         meaning: "Mental or moral strength to venture, persevere, and withstand danger, fear, or difficulty", 
-        quote: "Strive as much as ye can to turn wholly toward the Kingdom, that ye may acquire innate courage and ideal power.",
+        quote: "The woman has greater moral courage than the man; she has also special gifts which enable her to govern in moments of danger and crisis. If necessary she can become a warrior.",
         author: "‘Abdu’l-Bahá",
-        source: "Selections from the Writings of ‘Abdu’l-Bahá, p. 206",
+        source: "‘Abdu’l-Bahá in London, p. 103",
     },
     
 
