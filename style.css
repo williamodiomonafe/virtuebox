@@ -130,20 +130,22 @@ footer {
     margin: 0px;
     text-align: center;
     background-color: rgba(0,0,0, 0.94);
-    height: 10px;
+    height: 5%;
     overflow: hidden;
-    padding: 1em;
+    padding: 0 1em;
 }
 
-footer > span {
+footer #footer-top {
     font-size: 11px;
     color: #fff;
     font-weight: bold;
+    margin: 1em;
+    display: inline-block;
 }
 
-footer #footer-bottom {
-   margin-top: 25em;
-   display: inline-block;
+
+footer #footer-top:hover {
+    cursor: pointer;
 }
 
 footer p {
@@ -223,10 +225,6 @@ footer a {
         font-size: 0.7em;
         width: 100%;
         text-align: center;
-    }
-
-    footer #footer-bottom {
-        font-size: 1.2em;
     }
 
     #nav {
