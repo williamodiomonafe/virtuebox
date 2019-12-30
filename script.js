@@ -300,11 +300,28 @@ let virtues = [
     
     {
         category : "Forgiveness",
-        meaning: "The act of forgiving someone or something", quote: "No quotes on this virtue yet. You can kindly contribute by tweeting #myvirtuebox or send me a mail via <a href='mailto:williamodiomonafe@gmail.com'>williamodiomonafe@gmail.com</a>. Thank you.",
-        author: "No author yet",
-        source: "No source yet.",
+        meaning: "The act of forgiving someone or something", 
+        quote: "For if you forgive other people when they sin against you, your heavenly Father will also forgive you.",
+        author: "",
+        source: "Matthew 6:14-15",
     },
     
+
+    {
+        category : "Forgiveness",
+        meaning: "The act of forgiving someone or something", 
+        quote: "So watch yourselves. “If your brother or sistersins against you, rebuke them; and if they repent, forgive them. Even if they sin against you seven times in a day and seven times come back to you saying ‘I repent,’ you must forgive them.",
+        author: "",
+        source: "Luke 17:3-4",
+    },
+    {
+        category : "Forgiveness",
+        meaning: "The act of forgiving someone or something", 
+        quote: "Get rid of all bitterness, rage and anger, brawling and slander, along with every form of malice. Be kind and compassionate to one another, forgiving each other, just as in Christ God forgave you.",
+        author: "",
+        source: "Ephesians 4:31-32",
+    },
+
     {
         category : "Fortitude",
         meaning: "the courage to stand up for what is right, even in the face of pressure", quote: "No quotes on this virtue yet. You can kindly contribute by tweeting #myvirtuebox or send me a mail via <a href='mailto:williamodiomonafe@gmail.com'>williamodiomonafe@gmail.com</a>. Thank you.",
@@ -379,10 +396,29 @@ let virtues = [
     
     {
         category : "Hope",
-        meaning: "To want something to happen or be true and think that it could happen or be true", quote: "No quotes on this virtue yet. You can kindly contribute by tweeting #myvirtuebox or send me a mail via <a href='mailto:williamodiomonafe@gmail.com'>williamodiomonafe@gmail.com</a>. Thank you.",
-        author: "No author yet",
-        source: "No source yet.",
+        meaning: "To want something to happen or be true and think that it could happen or be true", 
+        quote: "But those who hope in the LORD will renew their strength. They will soar on wings like eagles; they will run and not grow weary, they will walk and not be faint.",
+        author: "",
+        source: "Isaiah 40:31",
     },
+    
+
+    {
+        category : "Hope",
+        meaning: "To want something to happen or be true and think that it could happen or be true", 
+        quote: "And hope does not put us to shame, because God’s love has been poured out into our hearts through the Holy Spirit, who has been given to us.",
+        author: "",
+        source: "Romans 5:5 ",
+    },
+    {
+        category : "Hope",
+        meaning: "To want something to happen or be true and think that it could happen or be true", 
+        quote: "Hope deferred makes the heart sick, but a longing fulfilled is a tree of life.",
+        author: "",
+        source: "Proverbs 13:12",
+    },
+
+
     
     {
         category : "Humility",
@@ -443,10 +479,73 @@ let virtues = [
      
     {
         category : "Love",
-        meaning: "", quote: "Deal ye one with another with the utmost love and harmony, with friendliness and fellowship... This goal excelleth every other goal, and this aspiration is the monarch of all aspirations.",
+        meaning: "A feeling of strong or constant affection for a person", quote: "Deal ye one with another with the utmost love and harmony, with friendliness and fellowship... This goal excelleth every other goal, and this aspiration is the monarch of all aspirations.",
         author: "Bahá’u’lláh",
         source: "Gleanings from the Writings of Bahá’u’lláh, p. 288",
     },
+
+
+
+    {
+        category : "Love",
+        meaning: "A feeling of strong or constant affection for a person", 
+        quote: "Let all that you do be done in love.",
+        author: "",
+        source: "1 Corinthians 16:14",
+    },
+
+
+    {
+        category : "Love",
+        meaning: "A feeling of strong or constant affection for a person", 
+        quote: "Anyone who does not love does not know God, because God is love.",
+        author: "",
+        source: "1 John 4:8",
+    },
+
+    {
+        category : "Love",
+        meaning: "A feeling of strong or constant affection for a person", 
+        quote: "Above all, keep loving one another earnestly, since love covers a multitude of sins.",
+        author: "",
+        source: "1 Peter 4:8",
+    },
+
+
+    {
+        category : "Love",
+        meaning: "A feeling of strong or constant affection for a person", 
+        quote: "And above all these put on love, which binds everything together in perfect harmony.",
+        author: "",
+        source: "Colossians 3:14",
+    },
+
+
+    {
+        category : "Love",
+        meaning: "A feeling of strong or constant affection for a person", 
+        quote: "Greater love has no one than this, that someone lay down his life for his friends.",
+        author: "",
+        source: "John 15:13",
+    },
+
+
+    {
+        category : "Love",
+        meaning: "A feeling of strong or constant affection for a person", 
+        quote: "Hatred stirs up strife, but love covers all offenses.",
+        author: "",
+        source: "Proverbs 10:12",
+    },
+
+    {
+        category : "Love",
+        meaning: "A feeling of strong or constant affection for a person", 
+        quote: "Beloved, let us love one another, for love is from God, and whoever loves has been born of God and knows God.",
+        author: "",
+        source: "1 John 4:7",
+    },
+
     {
         category : "Love",
         meaning: "A feeling of strong or constant affection for a person", 
