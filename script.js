@@ -5,25 +5,25 @@ let virtues = [
     {
         category : "Acceptance",
         meaning: "The act of accepting something or someone",
-        quote: "...",
-        author: "...",
-        source: "...",
+        quote: "No quotes on this virtue yet. You can kindly contribute by tweeting #myvirtuebox or send me a mail via <a href='mailto:williamodiomonafe@gmail.com'>williamodiomonafe@gmail.com</a>. Thank you.",
+        author: "No author yet",
+        source: "No source yet.",
     },
 
     {
         category : "Assertiveness",
         meaning: "Disposed to or characterized by bold or confident statements and behavior",
-        quote: "...",
-        author: "...",
-        source: "...",
+        quote: "No quotes on this virtue yet. You can kindly contribute by tweeting #myvirtuebox or send me a mail via <a href='mailto:williamodiomonafe@gmail.com'>williamodiomonafe@gmail.com</a>. Thank you.",
+        author: "No author yet",
+        source: "No source yet.",
     },
 
     {
         category : "Authenticity",
         meaning: "True to one’s own personality, spirit, or character",
-        quote: "...",
-        author: "...",
-        source: "...",
+        quote: "No quotes on this virtue yet. You can kindly contribute by tweeting #myvirtuebox or send me a mail via <a href='mailto:williamodiomonafe@gmail.com'>williamodiomonafe@gmail.com</a>. Thank you.",
+        author: "No author yet",
+        source: "No source yet.",
     },
 
     {
@@ -37,9 +37,9 @@ let virtues = [
     {
         category : "Caring",
         meaning: "Feeling or showing concern for other people",
-        quote: "...",
-        author: "...",
-        source: "...",
+        quote: "No quotes on this virtue yet. You can kindly contribute by tweeting #myvirtuebox or send me a mail via <a href='mailto:williamodiomonafe@gmail.com'>williamodiomonafe@gmail.com</a>. Thank you.",
+        author: "No author yet",
+        source: "No source yet.",
     },
 
     {
@@ -73,9 +73,9 @@ let virtues = [
 
     {
         category : "Commitment",
-        meaning: "An agreement or pledge to do something in the future", quote: "...",
-        author: "...",
-        source: "...",
+        meaning: "An agreement or pledge to do something in the future", quote: "No quotes on this virtue yet. You can kindly contribute by tweeting #myvirtuebox or send me a mail via <a href='mailto:williamodiomonafe@gmail.com'>williamodiomonafe@gmail.com</a>. Thank you.",
+        author: "No author yet",
+        source: "No source yet.",
     },
 
     {
@@ -96,9 +96,9 @@ let virtues = [
 
     {
         category : "Consideration",
-        meaning: "The act of thinking carefully about something you will make a decision about", quote: "...",
-        author: "...",
-        source: "...",
+        meaning: "The act of thinking carefully about something you will make a decision about", quote: "No quotes on this virtue yet. You can kindly contribute by tweeting #myvirtuebox or send me a mail via <a href='mailto:williamodiomonafe@gmail.com'>williamodiomonafe@gmail.com</a>. Thank you.",
+        author: "No author yet",
+        source: "No source yet.",
     },
 
     {
@@ -118,9 +118,9 @@ let virtues = [
     
     {
         category : "Cooperation",
-        meaning: "A situation in which people work together to do something", quote: "...",
-        author: "...",
-        source: "...",
+        meaning: "A situation in which people work together to do something", quote: "No quotes on this virtue yet. You can kindly contribute by tweeting #myvirtuebox or send me a mail via <a href='mailto:williamodiomonafe@gmail.com'>williamodiomonafe@gmail.com</a>. Thank you.",
+        author: "No author yet",
+        source: "No source yet.",
     },
     
     {
@@ -191,9 +191,9 @@ let virtues = [
 
     {
         category : "Creativity",
-        meaning: "The ability to make new things or think of new ideas", quote: "...",
-        author: "...",
-        source: "...",
+        meaning: "The ability to make new things or think of new ideas", quote: "No quotes on this virtue yet. You can kindly contribute by tweeting #myvirtuebox or send me a mail via <a href='mailto:williamodiomonafe@gmail.com'>williamodiomonafe@gmail.com</a>. Thank you.",
+        author: "No author yet",
+        source: "No source yet.",
     },
     
     {
@@ -220,9 +220,9 @@ let virtues = [
 
     {
         category : "Determination",
-        meaning: "Lack of emotion or of personal interest", quote: "...",
-        author: "...",
-        source: "...",
+        meaning: "Lack of emotion or of personal interest", quote: "No quotes on this virtue yet. You can kindly contribute by tweeting #myvirtuebox or send me a mail via <a href='mailto:williamodiomonafe@gmail.com'>williamodiomonafe@gmail.com</a>. Thank you.",
+        author: "No author yet",
+        source: "No source yet.",
     },
 
     {
@@ -258,172 +258,172 @@ let virtues = [
     
     {
         category : "Enthusiasm",
-        meaning: "Strong excitement about something; a strong feeling of active interest in something that you like or enjoy", quote: "...",
-        author: "...",
-        source: "...",
+        meaning: "Strong excitement about something; a strong feeling of active interest in something that you like or enjoy", quote: "No quotes on this virtue yet. You can kindly contribute by tweeting #myvirtuebox or send me a mail via <a href='mailto:williamodiomonafe@gmail.com'>williamodiomonafe@gmail.com</a>. Thank you.",
+        author: "No author yet",
+        source: "No source yet.",
     },
     
     {
         category : "Ethical",
-        meaning: "Following accepted rules of behavior; morally right and good", quote: "...",
-        author: "...",
-        source: "...",
+        meaning: "Following accepted rules of behavior; morally right and good", quote: "No quotes on this virtue yet. You can kindly contribute by tweeting #myvirtuebox or send me a mail via <a href='mailto:williamodiomonafe@gmail.com'>williamodiomonafe@gmail.com</a>. Thank you.",
+        author: "No author yet",
+        source: "No source yet.",
     },
     
     {
         category : "Excellence",
-        meaning: "Extremely high quality", quote: "...",
-        author: "...",
-        source: "...",
+        meaning: "Extremely high quality", quote: "No quotes on this virtue yet. You can kindly contribute by tweeting #myvirtuebox or send me a mail via <a href='mailto:williamodiomonafe@gmail.com'>williamodiomonafe@gmail.com</a>. Thank you.",
+        author: "No author yet",
+        source: "No source yet.",
     },
 
     {
         category : "Fairness",
-        meaning: "Treating people in a way that does not favor some over others", quote: "...",
-        author: "...",
-        source: "...",
+        meaning: "Treating people in a way that does not favor some over others", quote: "No quotes on this virtue yet. You can kindly contribute by tweeting #myvirtuebox or send me a mail via <a href='mailto:williamodiomonafe@gmail.com'>williamodiomonafe@gmail.com</a>. Thank you.",
+        author: "No author yet",
+        source: "No source yet.",
     },
     
     {
         category : "Faith",
-        meaning: "Strong belief or trust in someone or something", quote: "...",
-        author: "...",
-        source: "...",
+        meaning: "Strong belief or trust in someone or something", quote: "No quotes on this virtue yet. You can kindly contribute by tweeting #myvirtuebox or send me a mail via <a href='mailto:williamodiomonafe@gmail.com'>williamodiomonafe@gmail.com</a>. Thank you.",
+        author: "No author yet",
+        source: "No source yet.",
     },
     
     {
         category : "Flexibility",
-        meaning: "Willing to change or to try different things", quote: "...",
-        author: "...",
-        source: "...",
+        meaning: "Willing to change or to try different things", quote: "No quotes on this virtue yet. You can kindly contribute by tweeting #myvirtuebox or send me a mail via <a href='mailto:williamodiomonafe@gmail.com'>williamodiomonafe@gmail.com</a>. Thank you.",
+        author: "No author yet",
+        source: "No source yet.",
     },
     
     {
         category : "Forgiveness",
-        meaning: "The act of forgiving someone or something", quote: "...",
-        author: "...",
-        source: "...",
+        meaning: "The act of forgiving someone or something", quote: "No quotes on this virtue yet. You can kindly contribute by tweeting #myvirtuebox or send me a mail via <a href='mailto:williamodiomonafe@gmail.com'>williamodiomonafe@gmail.com</a>. Thank you.",
+        author: "No author yet",
+        source: "No source yet.",
     },
     
     {
         category : "Fortitude",
-        meaning: "the courage to stand up for what is right, even in the face of pressure", quote: "...",
-        author: "...",
-        source: "...",
+        meaning: "the courage to stand up for what is right, even in the face of pressure", quote: "No quotes on this virtue yet. You can kindly contribute by tweeting #myvirtuebox or send me a mail via <a href='mailto:williamodiomonafe@gmail.com'>williamodiomonafe@gmail.com</a>. Thank you.",
+        author: "No author yet",
+        source: "No source yet.",
     },
     
 
     {
         category : "Friendliness",
-        meaning: "Acting like a friend; kind and helpful", quote: "...",
-        author: "...",
-        source: "...",
+        meaning: "Acting like a friend; kind and helpful", quote: "No quotes on this virtue yet. You can kindly contribute by tweeting #myvirtuebox or send me a mail via <a href='mailto:williamodiomonafe@gmail.com'>williamodiomonafe@gmail.com</a>. Thank you.",
+        author: "No author yet",
+        source: "No source yet.",
     },
     
     {
         category : "Generosity",
-        meaning: "The quality of being kind, understanding, and not selfish; the quality of being generous", quote: "...",
-        author: "...",
-        source: "...",
+        meaning: "The quality of being kind, understanding, and not selfish; the quality of being generous", quote: "No quotes on this virtue yet. You can kindly contribute by tweeting #myvirtuebox or send me a mail via <a href='mailto:williamodiomonafe@gmail.com'>williamodiomonafe@gmail.com</a>. Thank you.",
+        author: "No author yet",
+        source: "No source yet.",
     },
     
     {
         category : "Gentleness",
-        meaning: "Having or showing a kind and quiet nature; not harsh or violent", quote: "...",
-        author: "...",
-        source: "...",
+        meaning: "Having or showing a kind and quiet nature; not harsh or violent", quote: "No quotes on this virtue yet. You can kindly contribute by tweeting #myvirtuebox or send me a mail via <a href='mailto:williamodiomonafe@gmail.com'>williamodiomonafe@gmail.com</a>. Thank you.",
+        author: "No author yet",
+        source: "No source yet.",
     },
     
 
     {
         category : "Graciousness",
-        meaning: "Very polite in a way that shows respect", quote: "...",
-        author: "...",
-        source: "...",
+        meaning: "Very polite in a way that shows respect", quote: "No quotes on this virtue yet. You can kindly contribute by tweeting #myvirtuebox or send me a mail via <a href='mailto:williamodiomonafe@gmail.com'>williamodiomonafe@gmail.com</a>. Thank you.",
+        author: "No author yet",
+        source: "No source yet.",
     },
     
     {
         category : "Gratitude",
-        meaning: "A feeling of appreciation or thanks", quote: "...",
-        author: "...",
-        source: "...",
+        meaning: "A feeling of appreciation or thanks", quote: "No quotes on this virtue yet. You can kindly contribute by tweeting #myvirtuebox or send me a mail via <a href='mailto:williamodiomonafe@gmail.com'>williamodiomonafe@gmail.com</a>. Thank you.",
+        author: "No author yet",
+        source: "No source yet.",
     },
     
     {
         category : "Harmonious",
-        meaning: "Having parts that are related or combined in a pleasing way", quote: "...",
-        author: "...",
-        source: "...",
+        meaning: "Having parts that are related or combined in a pleasing way", quote: "No quotes on this virtue yet. You can kindly contribute by tweeting #myvirtuebox or send me a mail via <a href='mailto:williamodiomonafe@gmail.com'>williamodiomonafe@gmail.com</a>. Thank you.",
+        author: "No author yet",
+        source: "No source yet.",
     },
 
     {
         category : "Helpfulness",
-        meaning: "Making it easier to do a job, deal with a problem, etc.; giving help", quote: "...",
-        author: "...",
-        source: "...",
+        meaning: "Making it easier to do a job, deal with a problem, etc.; giving help", quote: "No quotes on this virtue yet. You can kindly contribute by tweeting #myvirtuebox or send me a mail via <a href='mailto:williamodiomonafe@gmail.com'>williamodiomonafe@gmail.com</a>. Thank you.",
+        author: "No author yet",
+        source: "No source yet.",
     },
     
     {
         category : "Honesty",
-        meaning: "The quality of being fair and truthful", quote: "...",
-        author: "...",
-        source: "...",
+        meaning: "The quality of being fair and truthful", quote: "No quotes on this virtue yet. You can kindly contribute by tweeting #myvirtuebox or send me a mail via <a href='mailto:williamodiomonafe@gmail.com'>williamodiomonafe@gmail.com</a>. Thank you.",
+        author: "No author yet",
+        source: "No source yet.",
     },
     
     {
         category : "Honour",
-        meaning: "Respect that is given to someone who is admired", quote: "...",
-        author: "...",
-        source: "...",
+        meaning: "Respect that is given to someone who is admired", quote: "No quotes on this virtue yet. You can kindly contribute by tweeting #myvirtuebox or send me a mail via <a href='mailto:williamodiomonafe@gmail.com'>williamodiomonafe@gmail.com</a>. Thank you.",
+        author: "No author yet",
+        source: "No source yet.",
     },
     
     {
         category : "Hope",
-        meaning: "To want something to happen or be true and think that it could happen or be true", quote: "...",
-        author: "...",
-        source: "...",
+        meaning: "To want something to happen or be true and think that it could happen or be true", quote: "No quotes on this virtue yet. You can kindly contribute by tweeting #myvirtuebox or send me a mail via <a href='mailto:williamodiomonafe@gmail.com'>williamodiomonafe@gmail.com</a>. Thank you.",
+        author: "No author yet",
+        source: "No source yet.",
     },
     
     {
         category : "Humility",
-        meaning: "The quality or state of not thinking you are better than other people", quote: "...",
-        author: "...",
-        source: "...",
+        meaning: "The quality or state of not thinking you are better than other people", quote: "No quotes on this virtue yet. You can kindly contribute by tweeting #myvirtuebox or send me a mail via <a href='mailto:williamodiomonafe@gmail.com'>williamodiomonafe@gmail.com</a>. Thank you.",
+        author: "No author yet",
+        source: "No source yet.",
     },
     
     {
         category : "Idealism",
-        meaning: "The attitude of a person who believes that it is possible to live according to very high standards of behavior and honesty", quote: "...",
-        author: "...",
-        source: "...",
+        meaning: "The attitude of a person who believes that it is possible to live according to very high standards of behavior and honesty", quote: "No quotes on this virtue yet. You can kindly contribute by tweeting #myvirtuebox or send me a mail via <a href='mailto:williamodiomonafe@gmail.com'>williamodiomonafe@gmail.com</a>. Thank you.",
+        author: "No author yet",
+        source: "No source yet.",
     },
 
     {
         category : "Integrity",
-        meaning: "Firm adherence to a code of especially moral or artistic values; the quality or state of being complete or undivided", quote: "...",
-        author: "...",
-        source: "...",
+        meaning: "Firm adherence to a code of especially moral or artistic values; the quality or state of being complete or undivided", quote: "No quotes on this virtue yet. You can kindly contribute by tweeting #myvirtuebox or send me a mail via <a href='mailto:williamodiomonafe@gmail.com'>williamodiomonafe@gmail.com</a>. Thank you.",
+        author: "No author yet",
+        source: "No source yet.",
     },
     
     {
         category : "Imaginative",
-        meaning: "Having or showing an ability to think of new and interesting ideas; having or showing imagination", quote: "...",
-        author: "...",
-        source: "...",
+        meaning: "Having or showing an ability to think of new and interesting ideas; having or showing imagination", quote: "No quotes on this virtue yet. You can kindly contribute by tweeting #myvirtuebox or send me a mail via <a href='mailto:williamodiomonafe@gmail.com'>williamodiomonafe@gmail.com</a>. Thank you.",
+        author: "No author yet",
+        source: "No source yet.",
     },
     
     {
         category : "Joyfulness",
-        meaning: "Feeling, causing, or showing great happiness; full of joy", quote: "...",
-        author: "...",
-        source: "...",
+        meaning: "Feeling, causing, or showing great happiness; full of joy", quote: "No quotes on this virtue yet. You can kindly contribute by tweeting #myvirtuebox or send me a mail via <a href='mailto:williamodiomonafe@gmail.com'>williamodiomonafe@gmail.com</a>. Thank you.",
+        author: "No author yet",
+        source: "No source yet.",
     },
     
     {
         category : "Justice",
-        meaning: "The process or result of using laws to fairly judge and punish crimes and criminals", quote: "...",
-        author: "...",
-        source: "...",
+        meaning: "The process or result of using laws to fairly judge and punish crimes and criminals", quote: "No quotes on this virtue yet. You can kindly contribute by tweeting #myvirtuebox or send me a mail via <a href='mailto:williamodiomonafe@gmail.com'>williamodiomonafe@gmail.com</a>. Thank you.",
+        author: "No author yet",
+        source: "No source yet.",
     },
     
     {
@@ -464,226 +464,226 @@ let virtues = [
     
     {
         category : "Loyalty",
-        meaning: "The quality or state of being loyal", quote: "...",
-        author: "...",
-        source: "...",
+        meaning: "The quality or state of being loyal", quote: "No quotes on this virtue yet. You can kindly contribute by tweeting #myvirtuebox or send me a mail via <a href='mailto:williamodiomonafe@gmail.com'>williamodiomonafe@gmail.com</a>. Thank you.",
+        author: "No author yet",
+        source: "No source yet.",
     },
     
     {
         category : "Moderation",
-        meaning: "The quality or state of being reasonable and avoiding behavior, speech, etc., that is extreme or that goes beyond what is normal or acceptable", quote: "...",
-        author: "...",
-        source: "...",
+        meaning: "The quality or state of being reasonable and avoiding behavior, speech, etc., that is extreme or that goes beyond what is normal or acceptable", quote: "No quotes on this virtue yet. You can kindly contribute by tweeting #myvirtuebox or send me a mail via <a href='mailto:williamodiomonafe@gmail.com'>williamodiomonafe@gmail.com</a>. Thank you.",
+        author: "No author yet",
+        source: "No source yet.",
     },
     
     {
         category : "Modesty",
-        meaning: "The quality of not being too proud or confident about yourself or your abilities", quote: "...",
-        author: "...",
-        source: "...",
+        meaning: "The quality of not being too proud or confident about yourself or your abilities", quote: "No quotes on this virtue yet. You can kindly contribute by tweeting #myvirtuebox or send me a mail via <a href='mailto:williamodiomonafe@gmail.com'>williamodiomonafe@gmail.com</a>. Thank you.",
+        author: "No author yet",
+        source: "No source yet.",
     },
     
     {
         category : "Obedience",
-        meaning: "Assenting to rightful authority without hesitation or resistance", quote: "...",
-        author: "...",
-        source: "...",
+        meaning: "Assenting to rightful authority without hesitation or resistance", quote: "No quotes on this virtue yet. You can kindly contribute by tweeting #myvirtuebox or send me a mail via <a href='mailto:williamodiomonafe@gmail.com'>williamodiomonafe@gmail.com</a>. Thank you.",
+        author: "No author yet",
+        source: "No source yet.",
     },
     
     {
         category : "Optimistic",
-        meaning: "Having or showing hope for the future; expecting good things to happen", quote: "...",
-        author: "...",
-        source: "...",
+        meaning: "Having or showing hope for the future; expecting good things to happen", quote: "No quotes on this virtue yet. You can kindly contribute by tweeting #myvirtuebox or send me a mail via <a href='mailto:williamodiomonafe@gmail.com'>williamodiomonafe@gmail.com</a>. Thank you.",
+        author: "No author yet",
+        source: "No source yet.",
     },
     
     {
         category : "Orderliness",
-        meaning: "Arranged or organized in a logical or regular way", quote: "...",
-        author: "...",
-        source: "...",
+        meaning: "Arranged or organized in a logical or regular way", quote: "No quotes on this virtue yet. You can kindly contribute by tweeting #myvirtuebox or send me a mail via <a href='mailto:williamodiomonafe@gmail.com'>williamodiomonafe@gmail.com</a>. Thank you.",
+        author: "No author yet",
+        source: "No source yet.",
     },
     
     {
         category : "Pationate",
-        meaning: "Having, showing, or expressing strong emotions or beliefs", quote: "...",
-        author: "...",
-        source: "...",
+        meaning: "Having, showing, or expressing strong emotions or beliefs", quote: "No quotes on this virtue yet. You can kindly contribute by tweeting #myvirtuebox or send me a mail via <a href='mailto:williamodiomonafe@gmail.com'>williamodiomonafe@gmail.com</a>. Thank you.",
+        author: "No author yet",
+        source: "No source yet.",
     },
 
     {
         category : "Patience",
-        meaning: "The ability to wait for a long time without becoming annoyed or upset", quote: "...",
-        author: "...",
-        source: "...",
+        meaning: "The ability to wait for a long time without becoming annoyed or upset", quote: "No quotes on this virtue yet. You can kindly contribute by tweeting #myvirtuebox or send me a mail via <a href='mailto:williamodiomonafe@gmail.com'>williamodiomonafe@gmail.com</a>. Thank you.",
+        author: "No author yet",
+        source: "No source yet.",
     },
     
     {
         category : "Peace",
-        meaning: "A state of tranquility or quiet", quote: "...",
-        author: "...",
-        source: "...",
+        meaning: "A state of tranquility or quiet", quote: "No quotes on this virtue yet. You can kindly contribute by tweeting #myvirtuebox or send me a mail via <a href='mailto:williamodiomonafe@gmail.com'>williamodiomonafe@gmail.com</a>. Thank you.",
+        author: "No author yet",
+        source: "No source yet.",
     },
     
     {
         category : "Perseverance",
-        meaning: "Continued effort to do or achieve something despite difficulties, failure, or opposition", quote: "...",
-        author: "...",
-        source: "...",
+        meaning: "Continued effort to do or achieve something despite difficulties, failure, or opposition", quote: "No quotes on this virtue yet. You can kindly contribute by tweeting #myvirtuebox or send me a mail via <a href='mailto:williamodiomonafe@gmail.com'>williamodiomonafe@gmail.com</a>. Thank you.",
+        author: "No author yet",
+        source: "No source yet.",
     },
 
     {
         category : "Prayerfulness",
-        meaning: "Being still, listening, and being willing to talk to God as a friend", quote: "...",
-        author: "...",
-        source: "...",
+        meaning: "Being still, listening, and being willing to talk to God as a friend", quote: "No quotes on this virtue yet. You can kindly contribute by tweeting #myvirtuebox or send me a mail via <a href='mailto:williamodiomonafe@gmail.com'>williamodiomonafe@gmail.com</a>. Thank you.",
+        author: "No author yet",
+        source: "No source yet.",
     },
     
     {
         category : "Preparedness",
-        meaning: "The quality or state of being prepared", quote: "...",
-        author: "...",
-        source: "...",
+        meaning: "The quality or state of being prepared", quote: "No quotes on this virtue yet. You can kindly contribute by tweeting #myvirtuebox or send me a mail via <a href='mailto:williamodiomonafe@gmail.com'>williamodiomonafe@gmail.com</a>. Thank you.",
+        author: "No author yet",
+        source: "No source yet.",
     },
     
     {
         category : "Purposefulness",
-        meaning: "Having a purpose as in something set up as an object or end to be attained", quote: "...",
-        author: "...",
-        source: "...",
+        meaning: "Having a purpose as in something set up as an object or end to be attained", quote: "No quotes on this virtue yet. You can kindly contribute by tweeting #myvirtuebox or send me a mail via <a href='mailto:williamodiomonafe@gmail.com'>williamodiomonafe@gmail.com</a>. Thank you.",
+        author: "No author yet",
+        source: "No source yet.",
     },
     
     {
         category : "Reliability",
-        meaning: "The quality or state of being reliable", quote: "...",
-        author: "...",
-        source: "...",
+        meaning: "The quality or state of being reliable", quote: "No quotes on this virtue yet. You can kindly contribute by tweeting #myvirtuebox or send me a mail via <a href='mailto:williamodiomonafe@gmail.com'>williamodiomonafe@gmail.com</a>. Thank you.",
+        author: "No author yet",
+        source: "No source yet.",
     },
     
     {
         category : "Respect",
-        meaning: "An act of giving particular attention", quote: "...",
-        author: "...",
-        source: "...",
+        meaning: "An act of giving particular attention", quote: "No quotes on this virtue yet. You can kindly contribute by tweeting #myvirtuebox or send me a mail via <a href='mailto:williamodiomonafe@gmail.com'>williamodiomonafe@gmail.com</a>. Thank you.",
+        author: "No author yet",
+        source: "No source yet.",
     },
     
     {
         category : "Responsibility",
-        meaning: "The quality or state of being responsible as in moral, legal, or mental accountability", quote: "...",
-        author: "...",
-        source: "...",
+        meaning: "The quality or state of being responsible as in moral, legal, or mental accountability", quote: "No quotes on this virtue yet. You can kindly contribute by tweeting #myvirtuebox or send me a mail via <a href='mailto:williamodiomonafe@gmail.com'>williamodiomonafe@gmail.com</a>. Thank you.",
+        author: "No author yet",
+        source: "No source yet.",
     },
     
     {
         category : "Reverance",
-        meaning: "Honor or respect that is felt for or shown to (someone or something)", quote: "...",
-        author: "...",
-        source: "...",
+        meaning: "Honor or respect that is felt for or shown to (someone or something)", quote: "No quotes on this virtue yet. You can kindly contribute by tweeting #myvirtuebox or send me a mail via <a href='mailto:williamodiomonafe@gmail.com'>williamodiomonafe@gmail.com</a>. Thank you.",
+        author: "No author yet",
+        source: "No source yet.",
     },
     
     {
         category : "Self-discipline",
-        meaning: "Correction or regulation of oneself for the sake of improvement", quote: "...",
-        author: "...",
-        source: "...",
+        meaning: "Correction or regulation of oneself for the sake of improvement", quote: "No quotes on this virtue yet. You can kindly contribute by tweeting #myvirtuebox or send me a mail via <a href='mailto:williamodiomonafe@gmail.com'>williamodiomonafe@gmail.com</a>. Thank you.",
+        author: "No author yet",
+        source: "No source yet.",
     },
     
     {
         category : "Service",
-        meaning: "Contribution to the welfare of others", quote: "...",
-        author: "...",
-        source: "...",
+        meaning: "Contribution to the welfare of others", quote: "No quotes on this virtue yet. You can kindly contribute by tweeting #myvirtuebox or send me a mail via <a href='mailto:williamodiomonafe@gmail.com'>williamodiomonafe@gmail.com</a>. Thank you.",
+        author: "No author yet",
+        source: "No source yet.",
     },
     
     {
         category : "Sincerity",
-        meaning: "The quality or state of being sincere; honesty of mind", quote: "...",
-        author: "...",
-        source: "...",
+        meaning: "The quality or state of being sincere; honesty of mind", quote: "No quotes on this virtue yet. You can kindly contribute by tweeting #myvirtuebox or send me a mail via <a href='mailto:williamodiomonafe@gmail.com'>williamodiomonafe@gmail.com</a>. Thank you.",
+        author: "No author yet",
+        source: "No source yet.",
     },
     
     {
         category : "Tact",
-        meaning: "A keen sense of what to do or say in order to maintain good relations with others or avoid offense", quote: "...",
-        author: "...",
-        source: "...",
+        meaning: "A keen sense of what to do or say in order to maintain good relations with others or avoid offense", quote: "No quotes on this virtue yet. You can kindly contribute by tweeting #myvirtuebox or send me a mail via <a href='mailto:williamodiomonafe@gmail.com'>williamodiomonafe@gmail.com</a>. Thank you.",
+        author: "No author yet",
+        source: "No source yet.",
     },
     
     {
         category : "Temperate",
-        meaning: "Habitual moderation in the indulgence of the appetites or passions", quote: "...",
-        author: "...",
-        source: "...",
+        meaning: "Habitual moderation in the indulgence of the appetites or passions", quote: "No quotes on this virtue yet. You can kindly contribute by tweeting #myvirtuebox or send me a mail via <a href='mailto:williamodiomonafe@gmail.com'>williamodiomonafe@gmail.com</a>. Thank you.",
+        author: "No author yet",
+        source: "No source yet.",
     },
     
     {
         category : "Tenacious",
-        meaning: "Persistent in maintaining, adhering to, or seeking something valued or desired", quote: "...",
-        author: "...",
-        source: "...",
+        meaning: "Persistent in maintaining, adhering to, or seeking something valued or desired", quote: "No quotes on this virtue yet. You can kindly contribute by tweeting #myvirtuebox or send me a mail via <a href='mailto:williamodiomonafe@gmail.com'>williamodiomonafe@gmail.com</a>. Thank you.",
+        author: "No author yet",
+        source: "No source yet.",
     },
     
     {
         category : "Thankfulness",
-        meaning: "Conscious of benefit received", quote: "...",
-        author: "...",
-        source: "...",
+        meaning: "Conscious of benefit received", quote: "No quotes on this virtue yet. You can kindly contribute by tweeting #myvirtuebox or send me a mail via <a href='mailto:williamodiomonafe@gmail.com'>williamodiomonafe@gmail.com</a>. Thank you.",
+        author: "No author yet",
+        source: "No source yet.",
     },
     
     {
         category : "Tolerance",
-        meaning: "Capacity to endure pain or hardship; sympathy or indulgence for beliefs or practices differing from or conflicting with one’s own", quote: "...",
-        author: "...",
-        source: "...",
+        meaning: "Capacity to endure pain or hardship; sympathy or indulgence for beliefs or practices differing from or conflicting with one’s own", quote: "No quotes on this virtue yet. You can kindly contribute by tweeting #myvirtuebox or send me a mail via <a href='mailto:williamodiomonafe@gmail.com'>williamodiomonafe@gmail.com</a>. Thank you.",
+        author: "No author yet",
+        source: "No source yet.",
     },
     
     {
         category : "Trust",
-        meaning: "Assured reliance on the character, ability, strength, or truth of someone or something", quote: "...",
-        author: "...",
-        source: "...",
+        meaning: "Assured reliance on the character, ability, strength, or truth of someone or something", quote: "No quotes on this virtue yet. You can kindly contribute by tweeting #myvirtuebox or send me a mail via <a href='mailto:williamodiomonafe@gmail.com'>williamodiomonafe@gmail.com</a>. Thank you.",
+        author: "No author yet",
+        source: "No source yet.",
     },
     
     {
         category : "Truthfulness",
-        meaning: "Telling or disposed to tell the truth", quote: "...",
-        author: "...",
-        source: "...",
+        meaning: "Telling or disposed to tell the truth", quote: "No quotes on this virtue yet. You can kindly contribute by tweeting #myvirtuebox or send me a mail via <a href='mailto:williamodiomonafe@gmail.com'>williamodiomonafe@gmail.com</a>. Thank you.",
+        author: "No author yet",
+        source: "No source yet.",
     },
     
     {
         category : "Understanding",
-        meaning: "An agreement of opinion or feeling; adjustment of differences", quote: "...",
-        author: "...",
-        source: "...",
+        meaning: "An agreement of opinion or feeling; adjustment of differences", quote: "No quotes on this virtue yet. You can kindly contribute by tweeting #myvirtuebox or send me a mail via <a href='mailto:williamodiomonafe@gmail.com'>williamodiomonafe@gmail.com</a>. Thank you.",
+        author: "No author yet",
+        source: "No source yet.",
     },
     
     {
         category : "Unity",
-        meaning: "The quality or state of being made one", quote: "...",
-        author: "...",
-        source: "...",
+        meaning: "The quality or state of being made one", quote: "No quotes on this virtue yet. You can kindly contribute by tweeting #myvirtuebox or send me a mail via <a href='mailto:williamodiomonafe@gmail.com'>williamodiomonafe@gmail.com</a>. Thank you.",
+        author: "No author yet",
+        source: "No source yet.",
     },
     
     {
         category : "Visionary",
-        meaning: "A thought, concept, or object formed by the imagination", quote: "...",
-        author: "...",
-        source: "...",
+        meaning: "A thought, concept, or object formed by the imagination", quote: "No quotes on this virtue yet. You can kindly contribute by tweeting #myvirtuebox or send me a mail via <a href='mailto:williamodiomonafe@gmail.com'>williamodiomonafe@gmail.com</a>. Thank you.",
+        author: "No author yet",
+        source: "No source yet.",
     },
     
     {
         category : "Wisdom",
-        meaning: "Accumulated philosophic or scientific learning; knowledge", quote: "...",
-        author: "...",
-        source: "...",
+        meaning: "Accumulated philosophic or scientific learning; knowledge", quote: "No quotes on this virtue yet. You can kindly contribute by tweeting #myvirtuebox or send me a mail via <a href='mailto:williamodiomonafe@gmail.com'>williamodiomonafe@gmail.com</a>. Thank you.",
+        author: "No author yet",
+        source: "No source yet.",
     },
     
     {
         category : "Wonder",
-        meaning: "A feeling caused by seeing something that is very surprising, beautiful, amazing, etc.", quote: "...",
-        author: "...",
-        source: "...",
+        meaning: "A feeling caused by seeing something that is very surprising, beautiful, amazing, etc.", quote: "No quotes on this virtue yet. You can kindly contribute by tweeting #myvirtuebox or send me a mail via <a href='mailto:williamodiomonafe@gmail.com'>williamodiomonafe@gmail.com</a>. Thank you.",
+        author: "No author yet",
+        source: "No source yet.",
     },
     
 ];
