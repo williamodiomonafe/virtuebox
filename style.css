@@ -182,6 +182,11 @@ footer a {
     color: rgba(255,255,255, 0.8);
 }
 
+#quote {
+    text-decoration: none;
+    color: #efefef;
+}
+
 @media screen and (max-width: 400px) {
     body {
         width: 100vw;
